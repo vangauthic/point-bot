@@ -1,0 +1,20 @@
+General:
+    TOKEN: ""
+    ACTIVITY: "watching" # playing, watching, listening
+    DOING_ACTIVITY: "everyone" # what you want it to be playing, watching, listening, competing
+    STATUS: "online" # online, idle, dnd, invisible
+
+    ADMIN_GUILD_ID: 0
+    LEADERBOARD_CHANNEL_ID: 0
+    STAFF_ROLE_ID: 0
+    STAFF_USERS: [0, 0, 0]
+
+DefaultStyles:
+    EMBED_COLOR: "#7289DA"
+
+PointRewards:
+    MESSAGE: 1
+    REACTION: 1
+    VOICE: 1
+    INVITE: 5
+    DAILY: 20
