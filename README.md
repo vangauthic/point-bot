@@ -6,7 +6,7 @@ A Discord bot for managing points and rewards in your server.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/point-bot.git
+git clone https://github.com/vangauthic/point-bot.git
 cd point-bot
 ```
 
